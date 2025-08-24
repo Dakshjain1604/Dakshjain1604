@@ -14,7 +14,7 @@
 const daksh = {
     location: "Jaipur, Rajasthan, India",
     education: "Computer Science @ JECRC University",
-    currentFocus: ["Backend Development", "Data Science", "Cloud Technologies"],
+    currentFocus: ["Full Stack Development", "Data Science and AI "],
     funFact: "I love exploring the intersection of software engineering and AI",
     
     dailyRoutine: {
