@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+JECRC+University;Backend+Developer+%7C+Full+Stack+Explorer;Building+Scalable+Solutions+with+Modern+Tech;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+JECRC+University;Data+and+ai+Explorer+%7C+Full+Stack+Developer;Building+Scalable+Solutions+with+Modern+Tech;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -97,15 +97,7 @@ const daksh = {
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dakshjain1604&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
@@ -133,15 +125,7 @@ const daksh = {
 
 ---
 
-<div align="center">
-  
-**Thanks for visiting my profile! 😊**
 
-![Profile Views](https://visitcount.itsvg.in/api?id=dakshjain1604&icon=6&color=6)
-
-⭐️ **If you like my work, consider giving a star to my repositories!**
-
-</div>
 
 ---
 
