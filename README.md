@@ -26,9 +26,13 @@ const daksh = {
 ```
 
 <div align="center">
+  ![](https://github-contributor-stats.vercel.app/api?username=dakshjain1604&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
+<div align="center">
 
 ### 🎯 Current Goals
-**Expanding expertise in:** Data Science • Docker • Microsoft Azure • AI/ML
+**Expanding expertise in:** Data Science & AI/ML • DevOps & Cloud • Full Stack Development
 
 </div>
 
@@ -129,6 +133,4 @@ const daksh = {
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+
